@@ -34,7 +34,7 @@ Responsive Layout: Organized layout with sidebars and columns for seamless navig
 Follow these steps to set up the AI Stock Simulator on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/yourusername/ai-stock-simulator.git
+git clone https://github.com/jumpan786/stock-simulator.git
 cd ai-stock-simulator
 2. Create a Virtual Environment (Optional but Recommended)
 python3 -m venv venv
